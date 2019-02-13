@@ -2,11 +2,10 @@ function mostrar()
 {
 var productos;
 var precio;
-var precio2;
 var formadepago;
 tarjeta = parseInt(tarjeta);
 precio = parseInt(precio);
-var tarjeta = (10*precio)/100;
+var tarjeta = 
 
 
 
